@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=matthewgreenwald.com&up_color=green&up_message=online&url=https%3A%2F%2Fwww.matthewgreenwald.com%2F)](https://www.matthewgreenwald.com/)
+
+[<img align="left" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Font_Awesome_5_brands_linkedin.svg" />][linkedin]
+[<img align="left" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />][spotify]
+[<img align="left" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+[<img align="left" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Font_Awesome_5_brands_linkedin.svg" />][twitter]
+
+[website]: [Website](https://www.matthewgreenwald.com/)
+[linkedin]: https://www.linkedin.com/in/mdgreenwald/
+
 <!--
 **mdgreenwald/mdgreenwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
